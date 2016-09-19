@@ -1,0 +1,9 @@
+{
+  "server": "0.0.0.0",
+  "local_address": "127.0.0.1",
+  "scheme": "ws",
+  "local_port": 1080,
+  "remote_port": 8080,
+  "timeout": 21600,
+  "method": "aes-128-cfb"
+}
